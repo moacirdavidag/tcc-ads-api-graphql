@@ -1,0 +1,6 @@
+[submodule "backend-tcc-ads"]
+	path = backend-tcc-ads
+	url = https://github.com/moacirdavidag/backend-tcc-ads.git
+[submodule "frontend-tcc-ads"]
+	path = frontend-tcc-ads
+	url = https://github.com/moacirdavidag/frontend-tcc-ads
